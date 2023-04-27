@@ -21,7 +21,7 @@ body {
   overflow: hidden;
   color: #111;
   background: #fff;
-  max-width: 769px;
+  max-width: 998px;
 }
 
 #es-garnier.es-garnier * {
@@ -354,7 +354,7 @@ body {
     grid-area: drop;
     position: relative;
     z-index: 99;
-    top: 21px;
+    top: -31px;
     margin-left: 120px;
   }
 }
@@ -497,7 +497,7 @@ body {
   }
   #es-garnier.es-garnier .es-benefits__texts--3 {
     bottom: 231px;
-    /* right: 68%; */
+    right: 64%;
     padding-left: 16px;
   }
   #es-garnier.es-garnier .es-benefits__texts--3::before {
@@ -507,7 +507,7 @@ body {
     right: -100px;
   }
   #es-garnier.es-garnier .es-benefits__texts--4 {
-    bottom: -2px;
+    bottom: -50px;
     left: 58%;
     padding-left: 16px;
   }
@@ -535,7 +535,7 @@ body {
 }
 
 #es-garnier.es-garnier .es-ingredients__img {
-  max-width: 95%;
+  max-width: 75%;
   display: block;
   margin: 0 auto;
 }
@@ -1005,7 +1005,7 @@ body {
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  max-width: 220px;
+  max-width: 250px;
   margin: 0 auto;
 }
 
@@ -1356,7 +1356,7 @@ body {
     width: 172px;
   }
   #es-garnier.es-garnier .es-cross__product--double {
-    min-width: 460px;
+    /* min-width: 460px; */
   }
   #es-garnier.es-garnier .es-cross__product--double .es-cross__step {
     width: 460px;
